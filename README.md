@@ -47,3 +47,37 @@ The cleaned dataset was then used for visualization in Power BI.
     Analyzes customer contribution based on total spending.
   * Strategic Opportunities
     Highlights potential expansion opportunities across income and spending segments.
+
+# Key Insights
+
+ * Revenue is highly concentrated in the Very High Income segment, contributing the largest share of total revenue.
+ * The Mature age group contributes around 19.6% of total revenue.
+ * Low spenders exist across all income segments.
+ * Customer concentration is significantly higher in the Very High income segment, while Low, Medium, and High income segments have much smaller customer bases.
+ * This indicates that the business currently relies heavily on the Very High income segment.
+
+# Business Recommendations
+
+ * Expand customer acquisition strategies in Low, Medium, and High income segments to diversify the revenue base.
+ * Target low and medium spenders with upselling strategies to increase average revenue per user.
+ * Improve customer engagement strategies to convert low spenders into higher-value customers.
+
+# Tools & Skills Demonstrated
+
+ * Microsoft Excel (Data Cleaning & Preparation)
+ * Power BI (Dashboard Development)
+ * Customer Segmentation Analysis
+ * Business Insight Generation
+ * Data Visualization
+ * Analytical Thinking
+
+# Project Files
+
+* Raw Dataset → data/raw/
+* Cleaned Dataset → data/cleaned/
+* Power BI Dashboard → powerbi/
+* Dashboard Screenshots → screenshots/
+* Project Report → report/
+
+# Note
+For full interactive analysis, open the .pbix file in Power BI Desktop.
