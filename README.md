@@ -22,3 +22,28 @@ Main features include:
   * Loyalty Status
   * Preferred Channel
   * Profile Richness
+
+# Data Preparation
+ Data preparation was performed in Excel, including:
+ * Data cleaning
+ * Age group categorization
+ * Spend behaviour classification
+ * Profile richness flag creation
+ * Segment labeling for customer analysis
+The cleaned dataset was then used for visualization in Power BI.
+
+# Dashboard Overview
+
+ The Power BI dashboard explores multiple customer segmentation perspectives.
+  * Revenue Overview
+    Shows how revenue is distributed across different income and age groups.
+  * Cross Segmentation
+    Analyzes the distribution of customer spending behavior across income segments.
+  * Recency Segmentation
+    Identifies how recently customers have made purchases.
+  * Frequency Segmentation
+    Shows how frequently different customer segments make purchases.
+  * Monetary Segmentation
+    Analyzes customer contribution based on total spending.
+  * Strategic Opportunities
+    Highlights potential expansion opportunities across income and spending segments.
